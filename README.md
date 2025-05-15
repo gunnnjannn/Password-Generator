@@ -41,5 +41,5 @@ Password is: $a1F@g2K#r
 Use a terminal or Jupyter Notebook:
 
 ```bash
-python password_gen.py
+python password_gen.ipynb
 
