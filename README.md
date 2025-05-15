@@ -29,10 +29,17 @@ This is a simple Python-based password generator that creates a random, secure p
 
 ---
 
+## 🔎 Sample Output
+
+Please enter the length of password required: 10
+Password is: $a1F@g2K#r
+
+---
+
 ## 💻 Run the Code
 
 Use a terminal or Jupyter Notebook:
 
 ```bash
-python password_generator.py
+python password_gen.py
 
